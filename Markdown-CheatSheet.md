@@ -68,6 +68,8 @@ Name: h6 Heading
 Syntax: \#\#\#\#\#\# h6 Heading  
 Description:  Use six hashtags  
 
+``Note``: Make sure you have a blank line above the header line
+
 ---
 
 # Lists
