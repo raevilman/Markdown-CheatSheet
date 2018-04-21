@@ -148,7 +148,7 @@ Manage alignment with `:` to left, both or right side of the hyphens in header r
 ---  
 # Links
 
-[This is a link](https://github.com/raevilman/Markdown-CheatSheet)  
+[This is a link](https://github.com/raevilman/Markdown-CheatSheet "Go to Markdown-CheatSheet")  
 
 Syntax for above example:  
 \[This is a link\]\(https://github.com/raevilman/Markdown-CheatSheet)  
@@ -156,3 +156,8 @@ Syntax for above example:
 Name: Links  
 Syntax: \[Label or text for link\]\(URL\)  
 Description:  Place text/label for link in square brackets and then place actual URL in parentheses  
+
+For `tooltip`, on hovering over the link e.g. [Hover on me](https://github.com/raevilman/Markdown-CheatSheet "I'm a tooltip")  
+You can optionally mention title text in double quotes in parentheses after the URL separated by space
+Syntax for 'Hover on me' example is as below:  
+\[Hover on me\]\(https://github.com/raevilman/Markdown-CheatSheet "I'm a tooltip")
