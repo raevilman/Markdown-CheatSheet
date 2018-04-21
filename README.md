@@ -1,5 +1,13 @@
 # Markdown-Cheatsheet  
 
+* [Character Styles](https://github.com/raevilman/Markdown-CheatSheet#character-styles)  
+* [Block Quotes](https://github.com/raevilman/Markdown-CheatSheet#blockquotes)  
+* [Headers](https://github.com/raevilman/Markdown-CheatSheet#h1-heading)  
+* [Lists](https://github.com/raevilman/Markdown-CheatSheet#lists)  
+* [Tables](https://github.com/raevilman/Markdown-CheatSheet#tables)  
+* [Links](https://github.com/raevilman/Markdown-CheatSheet#links)  
+* []()  
+
 # Character Styles  
 
 |Example | Name | Syntax | Description
@@ -137,4 +145,14 @@ Description: Use hyphens to create headers and pipes to separate cells.
 Manage alignment with `:` to left, both or right side of the hyphens in header row.  
 
 
----
+---  
+# Links
+
+[This is a link](https://github.com/raevilman/Markdown-CheatSheet)  
+
+Syntax for above example:  
+\[This is a link\]\(https://github.com/raevilman/Markdown-CheatSheet)  
+
+Name: Links  
+Syntax: \[Label or text for link\]\(URL\)  
+Description:  Place text/label for link in square brackets and then place actual URL in parentheses  
