@@ -7,7 +7,7 @@
 * [Tables](https://github.com/raevilman/Markdown-CheatSheet#tables)  
 * [Links](https://github.com/raevilman/Markdown-CheatSheet#links)  
 * [Images](https://github.com/raevilman/Markdown-CheatSheet#images)  
-* [Horizontal Rule](https://github.com/raevilman/Markdown-CheatSheet#hr)  
+* [Horizontal Rule](https://github.com/raevilman/Markdown-CheatSheet#horizontal-rule)  
 # Character Styles  
 
 |Example | Name | Syntax | Description
