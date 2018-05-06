@@ -7,7 +7,7 @@
 * [Tables](https://github.com/raevilman/Markdown-CheatSheet#tables)  
 * [Links](https://github.com/raevilman/Markdown-CheatSheet#links)  
 * [Images](https://github.com/raevilman/Markdown-CheatSheet#images)  
-
+* [Horizontal Rule](https://github.com/raevilman/Markdown-CheatSheet#hr)  
 # Character Styles  
 
 |Example | Name | Syntax | Description
@@ -189,4 +189,34 @@ Reference-style:
 
 [logo]: https://github.com/raevilman/Markdown-CheatSheet/raw/master/assets/images/Emptiness.jpg "Emptiness"  
 
+---  
+# Horizontal Rule  
+
+```
+Use three or more of
+
+Hyphens  
+
 ---
+
+Asterisks
+
+***
+
+Underscores
+
+___
+```  
+Use three or more of
+
+Hyphens  
+
+---
+
+Asterisks
+
+***
+
+Underscores
+
+___  
