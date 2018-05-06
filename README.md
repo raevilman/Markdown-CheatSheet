@@ -6,7 +6,7 @@
 * [Lists](https://github.com/raevilman/Markdown-CheatSheet#lists)  
 * [Tables](https://github.com/raevilman/Markdown-CheatSheet#tables)  
 * [Links](https://github.com/raevilman/Markdown-CheatSheet#links)  
-* []()  
+* [Images](https://github.com/raevilman/Markdown-CheatSheet#images)  
 
 # Character Styles  
 
@@ -160,4 +160,33 @@ Description:  Place text/label for link in square brackets and then place actual
 For `tooltip`, on hovering over the link e.g. [Hover on me](https://github.com/raevilman/Markdown-CheatSheet "I'm a tooltip")  
 You can optionally mention title text in double quotes in parentheses after the URL separated by space
 Syntax for 'Hover on me' example is as below:  
-\[Hover on me\]\(https://github.com/raevilman/Markdown-CheatSheet "I'm a tooltip")
+\[Hover on me\]\(https://github.com/raevilman/Markdown-CheatSheet "I'm a tooltip")  
+
+---
+# Images  
+Syntax:  
+
+Inline-style:  
+```  
+![alt text](https://github.com/raevilman/Markdown-CheatSheet/raw/master/assets/images/Pizza_Love.jpg "I Love Pizza")
+```
+Reference-style:  
+```
+![alt text][logo]
+
+[logo]: https://github.com/raevilman/Markdown-CheatSheet/raw/master/assets/images/Emptiness.jpg "Emptiness"  
+```
+
+#### Inline-style:  
+
+
+![alt text](https://github.com/raevilman/Markdown-CheatSheet/raw/master/assets/images/Pizza_Love.jpg "I Love Pizza")
+
+#### Reference-style:  
+
+
+![alt text][logo]
+
+[logo]: https://github.com/raevilman/Markdown-CheatSheet/raw/master/assets/images/Emptiness.jpg "Emptiness"  
+
+---
