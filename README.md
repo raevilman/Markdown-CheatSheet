@@ -8,6 +8,7 @@
 * [Links](https://github.com/raevilman/Markdown-CheatSheet#links)  
 * [Images](https://github.com/raevilman/Markdown-CheatSheet#images)  
 * [Horizontal Rule](https://github.com/raevilman/Markdown-CheatSheet#horizontal-rule)  
+* [Collapsible Section](#collapsible-section)
 # Character Styles  
 
 |Example | Name | Syntax | Description
@@ -220,3 +221,36 @@ Asterisks
 Underscores
 
 ___  
+
+---
+
+# Collapsible Section
+
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>  
+
+Code:  
+
+```
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+```  
+> Make sure to leave emply line  
+>   - after the closing `</summary>` tag, otherwise the markdown/code blocks won't show correctly.  
+>   - after the closing </details> tag if you have multiple collapsible sections.
